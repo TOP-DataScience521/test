@@ -2,7 +2,7 @@ import funcs
 
 
 def main():
-    print(funcs.func2())
+    print(funcs.func5())
 
 
 if __name__ == '__main__':
