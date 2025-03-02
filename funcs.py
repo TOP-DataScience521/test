@@ -7,3 +7,6 @@ def func2():
 def func3():
     return func2() + ' & тест'
 
+def func4():
+    return func3() + ' ! тест'
+
