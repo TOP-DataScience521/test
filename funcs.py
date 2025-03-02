@@ -18,3 +18,6 @@ def func3():
 def func4():
     return func3() + ' ! тест'
 
+def func5():
+    return 'ещё один тест'
+
